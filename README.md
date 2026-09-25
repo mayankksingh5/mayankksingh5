@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Mayank%20Kumar%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20Software%20Development&descSize=18&descAlignY=56" width="100%" alt="Mayank Kumar Singh" />
+<img src="./assets/banner.svg" width="100%" alt="Mayank Kumar Singh, Associate DevOps Engineer and Software Developer" />
 
 <a href="https://mayank-portfolio.mayankksingh5.workers.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Associate+DevOps+Engineer;Software+Developer;Cloud+%26+Automation+Enthusiast" alt="Associate DevOps Engineer · Software Developer · Cloud & Automation Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+CI%2FCD+pipelines+with+Jenkins+%26+GitHub+Actions;Containerizing+apps+with+Docker+%26+Kubernetes;Working+with+AWS+cloud+infrastructure;Automating+development+workflows" alt="Building CI/CD pipelines, containerizing apps, working with AWS, automating workflows" />
 </a>
 
 <p>
@@ -136,4 +136,4 @@ I build, automate and maintain reliable software systems while working across De
 
 I'm open to DevOps, cloud and software development opportunities. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/mayank-singh-298718204) or [email](mailto:mayankksingh1999@gmail.com), and my full resume is on my [portfolio](https://mayank-portfolio.mayankksingh5.workers.dev/#resume).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=110&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
