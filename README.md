@@ -65,6 +65,15 @@ I build, automate and maintain reliable software systems while working across De
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏛️ GovTrack Jobs</h3>
+      <p>Government jobs &amp; exams portal. A scraper on GitHub Actions checks official recruitment sites every 2 hours and publishes new notices automatically, with an admin panel for review, Q&amp;A moderation and a blog, plus server-rendered SEO.</p>
+      <p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,supabase,githubactions,vercel&perline=8" height="32" alt="React, Vite, Tailwind CSS, Node.js, Express, Supabase, GitHub Actions, Vercel" /></p>
+      <p>
+        <a href="https://jobportal-phi-topaz.vercel.app">Live</a> ·
+        <a href="https://github.com/mayankksingh5/govtrack-jobs">Code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 Developer Portfolio</h3>
       <p>Data-driven portfolio with a private admin panel for editing every section without code. Postgres with Row Level Security, deployed as static files on Cloudflare.</p>
       <p><img src="https://skillicons.dev/icons?i=react,ts,tailwind,supabase,postgres,cloudflare&perline=6" height="32" alt="React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Cloudflare" /></p>
@@ -74,6 +83,8 @@ I build, automate and maintain reliable software systems while working across De
         <a href="https://github.com/mayankksingh5/mayank-portfolio">Code</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📈 Capita1</h3>
       <p>IPO &amp; market intelligence platform with IPO insights, market news, company fundamentals, listing updates and stock comparison tools.</p>
@@ -81,8 +92,6 @@ I build, automate and maintain reliable software systems while working across De
         <a href="https://www.capita1.in">Live</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎵 Spotify Clone</h3>
       <p>Spotify-inspired music streaming web interface built with HTML, CSS and JavaScript.</p>
@@ -92,6 +101,8 @@ I build, automate and maintain reliable software systems while working across De
         <a href="https://github.com/mayankksingh5/Spotify_Clone">Code</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>☕ Java projects</h3>
       <p>
@@ -99,6 +110,8 @@ I build, automate and maintain reliable software systems while working across De
         <a href="https://github.com/mayankksingh5/CurrencyConverter">Currency Converter</a> ·
         <a href="https://github.com/mayankksingh5/Tic-Tac-Toe_game">Tic-Tac-Toe</a>
       </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🕹️ Web mini projects</h3>
       <p>
         <a href="https://github.com/mayankksingh5/Rock-Paper-Scissors-Game">Rock Paper Scissors</a> ·
